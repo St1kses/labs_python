@@ -1,0 +1,1 @@
+s = input(); print("\n".join(s.split(".")[::-1])); input()

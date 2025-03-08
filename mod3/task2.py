@@ -1,0 +1,1 @@
+n = input(); print(f"{int(n):b}, {int(n):o}, {int(n):x}" if n.isdigit() and int(n) > 0 and float(n) == int(float(n)) else "Неверный ввод"); input()

@@ -1,0 +1,1 @@
+a, b, c = map(int, input().split()); print(sorted([a, b, c])[1] if -1000 <= a <= 1000 and -1000 <= b <= 1000 and -1000 <= c <= 1000 else "Неверный ввод"); input()

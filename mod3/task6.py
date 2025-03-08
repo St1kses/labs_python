@@ -1,0 +1,1 @@
+print(len((s := input().split())) != len(set(s))); input()
